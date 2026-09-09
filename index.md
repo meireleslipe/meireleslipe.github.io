@@ -94,7 +94,7 @@ Meu foco está em construir soluções com atenção a **arquitetura, performanc
 | **S/4HANA** | CDS Views · OData · APIs · Extensibility |
 | **SAP BTP** | Cloud Foundry · Kyma · Integration Suite |
 | **Frontend** | SAP Fiori · SAPUI5 · JavaScript |
-| **Integração** | PI/PO · RFC · REST · SOAP · IDoc |
+| **Integração** | CPI - PI/PO · RFC · REST · SOAP · IDoc |
 | **Performance** | ST05 · SAT · SQL Optimization |
 | **Arquitetura** | Clean Core · Side-by-Side Extensions |
 
