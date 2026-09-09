@@ -39,12 +39,10 @@ Meu foco está em construir soluções com atenção a **arquitetura, performanc
 
 ### SAP BTP & ABAP Cloud
 
-- SAP Certified Associate – Back-End Developer – ABAP Cloud
 - Clean Core
 - Extensões Side-by-Side
 - ABAP Cloud
 - Cloud Foundry
-- Kyma
 - SAP Integration Suite
 - SAP HANA Cloud
 - SAP Datasphere
@@ -59,7 +57,7 @@ Meu foco está em construir soluções com atenção a **arquitetura, performanc
 - Componentes reutilizáveis
 - ODataModel e JSONModel
 - Operações CRUD
-- `manifest.json`
+- manifest.json
 - Roteamento e navegação
 - Internacionalização com i18n
 - SAP Business Application Studio
