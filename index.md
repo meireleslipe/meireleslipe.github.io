@@ -12,7 +12,7 @@ nav_order: 1
 
 ---
 
-## 👋 Sobre
+## Sobre
 
 Senior SAP Developer com experiência em desenvolvimento, integração e evolução de soluções no ecossistema SAP.
 
@@ -22,87 +22,87 @@ Meu foco está em construir soluções com atenção a **arquitetura, performanc
 
 ---
 
-## 🧭 Áreas de Atuação
+## Áreas de Atuação
 
-### 🟦 ABAP & S/4HANA
+### ABAP & S/4HANA
 
-* Desenvolvimento ABAP clássico e orientado a objetos
-* CDS Views e modelagem de dados
-* Enhancements, BAdIs, User-Exits e Enhancement Points
-* Data Dictionary: tabelas, estruturas, views e Search Helps
-* ALV: CL_SALV_TABLE e ALV clássico
-* WebDynpro
-* Análise e otimização de performance
-* SQL Trace com ST05 e análise com SAT
-
----
-
-### ☁️ SAP BTP & ABAP Cloud
-
-* SAP Certified Associate – Back-End Developer – ABAP Cloud
-* Clean Core
-* Extensões Side-by-Side
-* ABAP Cloud
-* Cloud Foundry
-* Kyma
-* SAP Integration Suite
-* SAP HANA Cloud
-* SAP Datasphere
+- Desenvolvimento ABAP clássico e orientado a objetos
+- CDS Views e modelagem de dados
+- Enhancements, BAdIs, User-Exits e Enhancement Points
+- Data Dictionary: tabelas, estruturas, views e Search Helps
+- ALV: CL_SALV_TABLE e ALV clássico
+- WebDynpro
+- Análise e otimização de performance
+- SQL Trace com ST05 e análise com SAT
 
 ---
 
-### 🟩 SAP Fiori & SAPUI5
+### SAP BTP & ABAP Cloud
 
-* Desenvolvimento de aplicações Fiori Freestyle
-* Arquitetura MVC
-* Controllers e Fragments
-* Componentes reutilizáveis
-* ODataModel e JSONModel
-* Operações CRUD
-* `manifest.json`
-* Roteamento e navegação
-* Internacionalização com i18n
-* SAP Business Application Studio
-* Integração com SAP Fiori Launchpad
+- SAP Certified Associate – Back-End Developer – ABAP Cloud
+- Clean Core
+- Extensões Side-by-Side
+- ABAP Cloud
+- Cloud Foundry
+- Kyma
+- SAP Integration Suite
+- SAP HANA Cloud
+- SAP Datasphere
 
 ---
 
-### 🟨 Integração SAP
+### SAP Fiori & SAPUI5
 
-**SAP PI/PO**
+- Desenvolvimento de aplicações Fiori Freestyle
+- Arquitetura MVC
+- Controllers e Fragments
+- Componentes reutilizáveis
+- ODataModel e JSONModel
+- Operações CRUD
+- `manifest.json`
+- Roteamento e navegação
+- Internacionalização com i18n
+- SAP Business Application Studio
+- Integração com SAP Fiori Launchpad
 
-* ESR e Integration Builder
-* ABAP Proxy
-* Message Mapping
-* Java Mapping
-* Transformação XML e JSON
-* Monitoramento e troubleshooting de interfaces
+---
 
-**Protocolos e Tecnologias**
+### Integração SAP
+
+#### SAP PI/PO
+
+- ESR e Integration Builder
+- ABAP Proxy
+- Message Mapping
+- Java Mapping
+- Transformação XML e JSON
+- Monitoramento e troubleshooting de interfaces
+
+#### Protocolos e Tecnologias
 
 `OData` · `REST` · `SOAP` · `WSDL` · `RFC` · `IDoc`
 
-**Adapters**
+#### Adapters
 
 `FILE` · `FTP` · `JDBC` · `Mail`
 
 ---
 
-## 🔧 Stack Técnica
+## Stack Técnica
 
-| Área            | Tecnologias                              |
-| --------------- | ---------------------------------------- |
-| **Backend**     | ABAP · ABAP OO · ABAP Cloud              |
-| **S/4HANA**     | CDS Views · OData · APIs · Extensibility |
-| **SAP BTP**     | Cloud Foundry · Kyma · Integration Suite |
-| **Frontend**    | SAP Fiori · SAPUI5 · JavaScript          |
-| **Integração**  | PI/PO · RFC · REST · SOAP · IDoc         |
-| **Performance** | ST05 · SAT · SQL Optimization            |
-| **Arquitetura** | Clean Core · Side-by-Side Extensions     |
+| Área | Tecnologias |
+| --- | --- |
+| **Backend** | ABAP · ABAP OO · ABAP Cloud |
+| **S/4HANA** | CDS Views · OData · APIs · Extensibility |
+| **SAP BTP** | Cloud Foundry · Kyma · Integration Suite |
+| **Frontend** | SAP Fiori · SAPUI5 · JavaScript |
+| **Integração** | PI/PO · RFC · REST · SOAP · IDoc |
+| **Performance** | ST05 · SAT · SQL Optimization |
+| **Arquitetura** | Clean Core · Side-by-Side Extensions |
 
 ---
 
-## 🏗️ Experiência Técnica
+## Experiência Técnica
 
 ### Desenvolvimento SAP
 
@@ -122,7 +122,7 @@ Investigação de problemas técnicos e análise de performance utilizando ferra
 
 ---
 
-## 📜 Certificação
+## Certificação
 
 ### SAP Certified Associate
 
@@ -132,26 +132,26 @@ Certificação voltada ao desenvolvimento de aplicações e extensões modernas 
 
 ---
 
-## 🎯 Foco Profissional
+## Foco Profissional
 
 Atualmente, tenho interesse em oportunidades e desafios envolvendo:
 
-* Modernização de aplicações SAP
-* S/4HANA
-* ABAP Cloud
-* SAP BTP
-* Clean Core
-* Fiori/UI5
-* Arquitetura de soluções
-* Integração entre sistemas
-* Performance e otimização de aplicações SAP
+- Modernização de aplicações SAP
+- S/4HANA
+- ABAP Cloud
+- SAP BTP
+- Clean Core
+- Fiori/UI5
+- Arquitetura de soluções
+- Integração entre sistemas
+- Performance e otimização de aplicações SAP
 
 ---
 
-## 📫 Contato
+## Contato
 
-🔗 **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/felipe-meireles-775b1b24/)]
+**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/felipe-meireles-775b1b24/)
 
-✆ **Telefone/Whatsapp:** [[+554198778-4231](https://wa.me/5541987784231)]
+**Telefone/WhatsApp:** [+55 41 98778-4231](https://wa.me/5541987784231)
 
-📧 **E-mail:** [meireles.lipe@gmail.com]
+**E-mail:** [meireles.lipe@gmail.com](mailto:meireles.lipe@gmail.com)
