@@ -49,7 +49,7 @@ O iFlow recebe o CEP por meio de uma requisição HTTPS, armazena o valor recebi
 
 ---
 
-## iFlow test
+## iFlow Test
 ![EX001 Consulta CEP - iFlow]({{ '/assets/images/97fecd96-7026-42cb-bb3d-76da32891823.png' | relative_url }})
 
 ---
