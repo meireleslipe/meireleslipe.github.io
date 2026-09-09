@@ -1,0 +1,64 @@
+<div class="secondary-header">
+
+  <div class="secondary-header-content">
+
+    <div class="secondary-header-main">
+
+      {% if page.header_category %}
+      <div class="secondary-header-category">
+        {{ page.header_category }}
+      </div>
+      {% endif %}
+
+      <h1>
+        {{ page.title }}
+      </h1>
+
+      {% if page.description %}
+      <p>
+        {{ page.description }}
+      </p>
+      {% endif %}
+
+    </div>
+
+    {% if page.header_product or page.header_line or page.header_subtitle %}
+
+    <div class="secondary-header-brand">
+
+      {% if page.header_category %}
+      <span>
+        {{ page.header_category }}
+      </span>
+      {% endif %}
+
+      {% if page.header_product %}
+      <strong>
+        {{ page.header_product }}
+      </strong>
+      {% endif %}
+
+      <div class="secondary-header-line"></div>
+
+      {% if page.header_line or page.header_subtitle %}
+      <small>
+
+        {% if page.header_line %}
+        {{ page.header_line }}
+        {% endif %}
+
+        {% if page.header_subtitle %}
+        <br>
+        {{ page.header_subtitle }}
+        {% endif %}
+
+      </small>
+      {% endif %}
+
+    </div>
+
+    {% endif %}
+
+  </div>
+
+</div>
