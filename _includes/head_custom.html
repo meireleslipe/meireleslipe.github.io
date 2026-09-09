@@ -1,0 +1,29 @@
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+  document.querySelectorAll(".nav-list-link").forEach(function (link) {
+
+    if (link.textContent.trim() === "SAP Cloud Integration") {
+
+      link.addEventListener("click", function (event) {
+
+        event.preventDefault();
+
+        const parent = link.parentElement;
+
+        const expander = parent.querySelector(".nav-list-expander");
+
+        if (expander) {
+          expander.click();
+        }
+
+      });
+
+      link.style.cursor = "default";
+
+    }
+
+  });
+
+});
+</script>
