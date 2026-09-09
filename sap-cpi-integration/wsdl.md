@@ -7,7 +7,7 @@ nav_order: 1
 
 # Consumindo Web Service
 
-Estudo prático de integração de Web Services no SAP Cloud Integration,
+Integração de Web Services no SAP Cloud Integration,
 abrangendo consumo SOAP, WSDL, autenticação e exposição de integração
 via HTTPS.
 
@@ -50,7 +50,7 @@ para consumo do serviço SOAP.
 
 ## Projeto
 
-Projeto desenvolvido durante os estudos de SAP Cloud Integration,
+Projeto desenvolvido de SAP Cloud Integration,
 contendo os iFlows apresentados neste conteúdo.
 
 **[⬇ Baixar projeto completo — ZIP](https://github.com/meireleslipe/my_tests_cpi/blob/c5954a00eadaa32d79e3df9c9b96f69f3234a52c/Package%20Web%20Service%20-%20SOAP%202%20SOAP.zip)**
