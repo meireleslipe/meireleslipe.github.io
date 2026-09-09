@@ -21,3 +21,13 @@ aux_links:
 aux_links_new_tab: true
 
 footer_content: "Felipe Meireles · SAP Developer Technical Portfolio"
+
+collections:
+  cpi:
+    output: true
+
+just_the_docs:
+  collections:
+    cpi:
+      name: SAP Cloud Integration
+      nav_fold: true
