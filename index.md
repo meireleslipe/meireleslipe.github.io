@@ -1,3 +1,9 @@
+---
+layout: home
+title: Home
+nav_order: 1
+---
+
 # Felipe Meireles
 
 ### Senior SAP Developer · ABAP Cloud · SAP BTP · S/4HANA
