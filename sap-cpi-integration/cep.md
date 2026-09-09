@@ -45,13 +45,12 @@ O iFlow recebe o CEP por meio de uma requisição HTTPS, armazena o valor recebi
 ---
 ## Arquitetura
 
-![Arquitetura da integração](assets/images/10d2b9f0-7673-44e7-aa6e-d1d997991a53.png)
+![Arquitetura da integração]({{ '/assets/images/10d2b9f0-7673-44e7-aa6e-d1d997991a53.png' | relative_url }})
 
 ---
 
 ## iFlow test
-
-![EX001 Consulta CEP - iFlow](assets/images/97fecd96-7026-42cb-bb3d-76da32891823.png)
+![EX001 Consulta CEP - iFlow]({{ '/assets/images/97fecd96-7026-42cb-bb3d-76da32891823.png' | relative_url }})
 
 ---
 
