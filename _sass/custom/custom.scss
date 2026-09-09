@@ -1,0 +1,186 @@
+/* =========================================================
+   FELIPE MEIRELES - CUSTOM DOCUMENTATION STYLE
+   ========================================================= */
+
+/* ---------- Conteúdo principal ---------- */
+
+.main-content {
+  max-width: 1100px;
+}
+
+/* ---------- Título da página ---------- */
+
+.main-content h1 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin-bottom: 0.5rem;
+}
+
+/* ---------- Subtítulos ---------- */
+
+.main-content h2 {
+  margin-top: 2.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.main-content h3 {
+  margin-top: 1.8rem;
+}
+
+/* =========================================================
+   TUTORIAL
+   ========================================================= */
+
+.tutorial-list {
+  margin-top: 1.5rem;
+}
+
+.tutorial-item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+
+  padding: 1rem 0;
+
+  border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.tutorial-number {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  min-width: 42px;
+  height: 42px;
+
+  border-radius: 50%;
+
+  background: #1769aa;
+  color: white;
+
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+
+.tutorial-content {
+  flex: 1;
+}
+
+.tutorial-title {
+  display: block;
+
+  font-size: 1.05rem;
+  font-weight: 700;
+
+  margin-bottom: 0.2rem;
+}
+
+.tutorial-description {
+  margin: 0;
+  opacity: 0.75;
+}
+
+/* =========================================================
+   PROJETO
+   ========================================================= */
+
+.project-box {
+  margin-top: 1.5rem;
+
+  padding: 1.5rem;
+
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 8px;
+
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.project-download {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  gap: 1rem;
+
+  padding: 1rem;
+
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 6px;
+}
+
+.download-button {
+  display: inline-block;
+
+  padding: 0.7rem 1.2rem;
+
+  border-radius: 5px;
+
+  background: #168f45;
+  color: white !important;
+
+  font-weight: 700;
+
+  text-decoration: none !important;
+}
+
+.download-button:hover {
+  background: #1aaa55;
+}
+
+/* =========================================================
+   LISTA DE ARTEFATOS
+   ========================================================= */
+
+.artifact-list {
+  margin-top: 1rem;
+
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 6px;
+
+  overflow: hidden;
+}
+
+.artifact {
+  padding: 1rem;
+
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.artifact:last-child {
+  border-bottom: none;
+}
+
+.artifact-name {
+  font-weight: 700;
+}
+
+.artifact-description {
+  margin-top: 0.25rem;
+
+  opacity: 0.7;
+}
+
+/* =========================================================
+   TAGS
+   ========================================================= */
+
+.tech-tags {
+  display: flex;
+  flex-wrap: wrap;
+
+  gap: 0.5rem;
+
+  margin: 1rem 0;
+}
+
+.tech-tag {
+  padding: 0.25rem 0.65rem;
+
+  border-radius: 20px;
+
+  background: rgba(23, 105, 170, 0.2);
+
+  font-size: 0.8rem;
+}
