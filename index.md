@@ -152,6 +152,6 @@ Atualmente, tenho interesse em oportunidades e desafios envolvendo:
 
 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/felipe-meireles-775b1b24/)
 
-**Telefone/WhatsApp:** [+55 41 98778-4231](https://wa.me/5541987784231)
+**WhatsApp:** [Entrar em contato](https://wa.me/5541987784231)
 
 **E-mail:** [meireles.lipe@gmail.com](mailto:meireles.lipe@gmail.com)
