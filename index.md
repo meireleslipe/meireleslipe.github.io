@@ -129,7 +129,7 @@ SAP Learning · Emitida em jan/2024 · Expira em fev/2029
 
 ---
 
-### Cursos e Record of Achievement
+### Cursos
 
 - **Process Integration (PI/PO)**  
   Moovi · Emitido em mai/2026
@@ -143,7 +143,7 @@ SAP Learning · Emitida em jan/2024 · Expira em fev/2029
 - **Fiori Freestyle**  
   Moovi · Emitido em out/2025
 
-- **Learning the Basics of SAP Fiori – Record of Achievement**  
+- **Learning the Basics of SAP Fiori**  
   SAP · Emitido em dez/2024
 
 - **Developing and Extending SAP Fiori Elements Apps**  
