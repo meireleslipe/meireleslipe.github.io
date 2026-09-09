@@ -144,7 +144,7 @@ Atualmente, tenho interesse em oportunidades e desafios envolvendo:
 
 ## 📫 Contato
 
-🔗 **LinkedIn:** [[adicione seu LinkedIn](https://www.linkedin.com/in/felipe-meireles-775b1b24/)]
+🔗 **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/felipe-meireles-775b1b24/)]
 
 ✆ **Telefone/Whatsapp:** [[+554198778-4231](https://wa.me/5541987784231)]
 
