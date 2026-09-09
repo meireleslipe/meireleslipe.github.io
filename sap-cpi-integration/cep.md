@@ -60,7 +60,7 @@ O iFlow recebe o CEP por meio de uma requisição HTTPS, armazena o valor recebi
 Projeto desenvolvido de SAP Cloud Integration,
 contendo os iFlows apresentados neste conteúdo.
 
-**[⬇ Baixar projeto completo](assets/downloads/Consulta%20de%20CEP.zip)**
+**[⬇ Baixar projeto — Consulta de CEP](https://meireleslipe.github.io/assets/downloads/Consulta%20de%20CEP.zip)**
 
 ---
 
