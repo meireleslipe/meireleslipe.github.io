@@ -120,19 +120,41 @@ Investigação de problemas técnicos e análise de performance utilizando ferra
 
 ---
 
-## Certificação
+## Cursos e Certificações
 
-### SAP Certified Associate
+### Certificação
 
-**Back-End Developer – ABAP Cloud**
+**SAP Certified Associate – Back-End Developer – ABAP Cloud**  
+SAP Learning · Emitida em jan/2024 · Expira em fev/2029
 
-Certificação voltada ao desenvolvimento de aplicações e extensões modernas no ecossistema SAP utilizando os princípios e tecnologias do ABAP Cloud.
+---
+
+### Cursos e Record of Achievement
+
+- **Process Integration (PI/PO)**  
+  Moovi · Emitido em mai/2026
+
+- **SAP BTP Essentials**  
+  Moovi · Emitido em out/2025
+
+- **SAP S/4HANA Essentials**  
+  Moovi · Emitido em dez/2025
+
+- **Fiori Freestyle**  
+  Moovi · Emitido em out/2025
+
+- **Learning the Basics of SAP Fiori – Record of Achievement**  
+  SAP · Emitido em dez/2024
+
+- **Developing and Extending SAP Fiori Elements Apps**  
+  SAP Learning · Emitido em jul/2021
+
+- **Building Apps with the ABAP RESTful Application Programming Model**  
+  SAP · Emitido em dez/2020
 
 ---
 
 ## Foco Profissional
-
-Atualmente, tenho interesse em oportunidades e desafios envolvendo:
 
 - Modernização de aplicações SAP
 - S/4HANA
