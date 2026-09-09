@@ -310,3 +310,213 @@
   }
 
 }
+
+/* =====================================================
+   SECONDARY HEADER
+   ===================================================== */
+
+.secondary-header {
+  width: 100%;
+  margin: 0 0 45px 0;
+
+  padding: 0;
+
+  border-radius: 14px;
+
+  overflow: hidden;
+
+  background:
+    linear-gradient(
+      112deg,
+      #a9a9a9 0%,
+      #d7d7d7 16%,
+      #eeeeee 31%,
+      #c8c8c8 45%,
+      #f1f1f1 58%,
+      #d2d2d2 73%,
+      #b2b2b2 88%,
+      #dddddd 100%
+    );
+
+  border: 1px solid #a6a6a6;
+
+  box-shadow:
+    0 5px 15px rgba(0, 0, 0, 0.18),
+    inset 0 1px 0 rgba(255, 255, 255, 0.8),
+    inset 0 -1px 0 rgba(0, 0, 0, 0.08);
+}
+
+
+/* Área interna */
+
+.secondary-header-content {
+  display: flex;
+
+  align-items: center;
+
+  justify-content: space-between;
+
+  gap: 40px;
+
+  padding: 34px 38px;
+}
+
+
+/* Conteúdo principal */
+
+.secondary-header-main {
+  flex: 1;
+
+  min-width: 0;
+}
+
+
+/* Categoria / Parent */
+
+.secondary-header-category {
+  margin-bottom: 12px;
+
+  font-size: 0.8rem;
+
+  font-weight: 600;
+
+  letter-spacing: 0.04em;
+
+  color: #3f3f3f;
+}
+
+
+/* Título */
+
+.secondary-header h1 {
+  margin: 0 0 10px 0;
+
+  font-size: 2.25rem;
+
+  line-height: 1.15;
+
+  font-weight: 700;
+
+  color: #222222;
+}
+
+
+/* Descrição */
+
+.secondary-header p {
+  max-width: 850px;
+
+  margin: 0;
+
+  font-size: 0.98rem;
+
+  line-height: 1.55;
+
+  color: #414141;
+}
+
+
+/* =====================================================
+   BRANDING
+   ===================================================== */
+
+.secondary-header-brand {
+
+  flex: 0 0 250px;
+
+  padding-left: 30px;
+
+  border-left: 1px solid rgba(50, 50, 50, 0.35);
+
+  color: #343434;
+}
+
+
+.secondary-header-brand span {
+
+  display: block;
+
+  margin-bottom: 10px;
+
+  font-size: 0.72rem;
+
+  letter-spacing: 0.22em;
+
+  color: #555555;
+}
+
+
+.secondary-header-brand strong {
+
+  display: block;
+
+  font-size: 0.92rem;
+
+  letter-spacing: 0.05em;
+
+  color: #252525;
+}
+
+
+.secondary-header-line {
+
+  width: 38px;
+
+  height: 2px;
+
+  margin: 18px 0;
+
+  background: #555555;
+}
+
+
+.secondary-header-brand small {
+
+  display: block;
+
+  font-size: 0.68rem;
+
+  line-height: 1.5;
+
+  letter-spacing: 0.14em;
+
+  color: #555555;
+}
+
+
+/* =====================================================
+   MOBILE
+   ===================================================== */
+
+@media (max-width: 800px) {
+
+  .secondary-header-content {
+
+    flex-direction: column;
+
+    align-items: flex-start;
+
+    padding: 28px;
+  }
+
+
+  .secondary-header-brand {
+
+    width: 100%;
+
+    padding-left: 0;
+
+    padding-top: 20px;
+
+    border-left: none;
+
+    border-top: 1px solid rgba(50, 50, 50, 0.25);
+  }
+
+
+  .secondary-header h1 {
+
+    font-size: 1.8rem;
+  }
+
+}
