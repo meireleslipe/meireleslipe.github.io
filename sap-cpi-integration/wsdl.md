@@ -6,7 +6,7 @@ nav_order: 1
 
 description: Integração de Web Services no SAP Cloud Integration, abrangendo consumo SOAP, WSDL, autenticação e exposição via HTTPS.
 
-header_category: INTEGRAÇÃO
+header_category: SAP CPI - INTEGRATION
 header_product: SAP CLOUD INTEGRATION
 header_line: SOAP · WSDL · HTTPS
 header_subtitle: WEB SERVICE INTEGRATION
