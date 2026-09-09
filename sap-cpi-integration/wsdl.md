@@ -56,7 +56,7 @@ para consumo do serviço SOAP.
 Projeto desenvolvido de SAP Cloud Integration,
 contendo os iFlows apresentados neste conteúdo.
 
-**[⬇ Baixar projeto completo — ZIP](https://github.com/meireleslipe/my_tests_cpi/raw/c5954a00eadaa32d79e3df9c9b96f69f3234a52c/Package%20Web%20Service%20-%20SOAP%202%20SOAP.zip)**
+**[⬇ Baixar projeto completo]([⬇ Baixar projeto completo — ZIP](/assets/downloads/Package-Web-Service-SOAP-2-SOAP.zip))**
 
 ---
 
