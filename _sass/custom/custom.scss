@@ -185,6 +185,9 @@
   font-size: 0.8rem;
 }
 
+/* =========================
+   PROFILE HEADER - SILVER
+   ========================= */
 
 .profile-header {
   display: flex;
@@ -211,4 +214,99 @@
   box-shadow:
     0 5px 14px rgba(0, 0, 0, 0.16),
     inset 0 1px 0 rgba(255, 255, 255, 0.7);
+}
+
+
+/* Foto */
+
+.profile-photo {
+  flex: 0 0 auto;
+}
+
+.profile-photo img {
+  width: 150px !important;
+  height: 150px !important;
+
+  object-fit: cover;
+  display: block;
+
+  border-radius: 20% !important;
+
+  border: 4px solid #eeeeee;
+
+  box-shadow:
+    0 2px 6px rgba(0, 0, 0, 0.25),
+    inset 0 1px 2px rgba(255, 255, 255, 0.8);
+}
+
+
+/* Informações */
+
+.profile-info {
+  min-width: 0;
+}
+
+.profile-label {
+  margin-bottom: 6px;
+
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+
+  color: #555555;
+}
+
+.profile-info h1 {
+  color: #222222;
+}
+
+.profile-info h2 {
+  color: #3d3d3d;
+}
+
+.profile-stack {
+  color: #4d4d4d;
+}
+
+
+/* Links */
+
+.profile-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px;
+}
+
+.profile-links a {
+  color: #292929;
+}
+
+.profile-links a:hover {
+  color: #111111;
+  text-decoration: underline;
+}
+
+
+/* =========================
+   RESPONSIVE
+   ========================= */
+
+@media (max-width: 700px) {
+
+  .profile-header {
+    flex-direction: column;
+    align-items: flex-start;
+
+    padding: 24px;
+  }
+
+  .profile-photo img {
+    width: 120px !important;
+    height: 120px !important;
+  }
+
+  .profile-info h1 {
+    font-size: 1.8rem;
+  }
+
 }
