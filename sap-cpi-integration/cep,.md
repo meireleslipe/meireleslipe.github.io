@@ -65,3 +65,5 @@ contendo os iFlows apresentados neste conteúdo.
 ---
 
 ## Tecnologias
+
+`SAP Cloud Integration` · `External Service` · `HTTPS` · `JSON` · `iFlow`
