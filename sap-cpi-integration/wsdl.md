@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SAP CPI - Consumindo Web Service
+title: SAP CPI (SOAP · WSDL)
 parent: SAP Cloud Integration
 nav_order: 2
 
