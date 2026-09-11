@@ -56,7 +56,7 @@ Também foram utilizados **Local Integration Process**, **Process Call** e **Pro
 
 ## Arquitetura
 
-![Arquitetura da API REST]({{ '/assets/images/c1c14627aca141e18d69ae9f44540d70.png' | relative_url }})
+![Arquitetura da API REST]({{ '/assets/images/f5f46ae5b81f462dad25f62eed01647b.png' | relative_url }})
 
 ---
 
